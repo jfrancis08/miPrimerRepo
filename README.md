@@ -7,3 +7,5 @@ un comit masdesde github
 
 
 una acutalizacion mas 
+
+cambios desde mi rama local "developer 01"
